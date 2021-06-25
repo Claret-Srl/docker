@@ -1,4 +1,4 @@
-name: Build Wheels only
+name: Build Wheels
 
 on:
   workflow_dispatch:
