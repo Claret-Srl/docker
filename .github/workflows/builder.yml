@@ -57,7 +57,7 @@ jobs:
         fi
 
     - name: Build wheels
-      uses: Claret-Srl/wheels@claret
+      uses: claret-srl/wheels@claret
       if: steps.requirements.outputs.changed == 'true'
       with:
         tag: ${{ env.WHEELS_TAG }}

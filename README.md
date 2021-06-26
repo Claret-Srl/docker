@@ -1,6 +1,6 @@
-[![Shellcheck](https://github.com/Claret-Srl/docker/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/Claret-Srl/docker/actions/workflows/shellcheck.yml)
-[![Build Wheels](https://github.com/Claret-Srl/docker/actions/workflows/wheels.yml/badge.svg)](https://github.com/Claret-Srl/docker/actions/workflows/wheels.yml)
-[![Build base images](https://github.com/Claret-Srl/docker/actions/workflows/builder.yml/badge.svg)](https://github.com/Claret-Srl/docker/actions/workflows/builder.yml)
+[![Shellcheck](https://github.com/claret-srl/docker/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/claret-srl/docker/actions/workflows/shellcheck.yml)
+[![Build Wheels](https://github.com/claret-srl/docker/actions/workflows/wheels.yml/badge.svg)](https://github.com/claret-srl/docker/actions/workflows/wheels.yml)
+[![Build base images](https://github.com/claret-srl/docker/actions/workflows/builder.yml/badge.svg)](https://github.com/claret-srl/docker/actions/workflows/builder.yml)
 
 # Docker
 Home Assistant containers
