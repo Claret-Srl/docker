@@ -43,7 +43,7 @@ jobs:
       uses: actions/checkout@v2.3.4
 
     - name: Build wheels
-      uses: claret-srl/wheels@claret
+      uses: claret-srl/wheels@master
       with:
         tag: ${{ env.WHEELS_TAG }}
         arch: ${{ matrix.arch }}
